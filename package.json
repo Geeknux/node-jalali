@@ -1,10 +1,10 @@
 {
-    "name": "node-JDateTime",
+    "name": "node-jalali",
     "description": "Jalali DateTime Module For Node.JS",
     "version": "1.0",
     "keywords": ["date", "jalali", "shamsi", "time"],
     "author": "Amir Mahmoudi <info@a-mahmoudi.com> (http://a-mahmoudi.com/)",
-    "homepage": "https://github.com/Geeknux/node-JDateTime/",
+    "homepage": "https://github.com/Geeknux/node-jalali",
     "contributors": [
         {
             "name": "Amir Mahmoudi",
@@ -14,10 +14,10 @@
     "license": ["MIT"],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Geeknux/node-JDateTime.git"
+        "url": "https://github.com/Geeknux/node-jalali.git"
     },
     "bugs": {
-        "url": "https://github.com/Geeknux/node-JDateTime/issues"
+        "url": "https://github.com/Geeknux/node-jalali/issues"
     },
     "directories": {
         "lib": "./lib",
