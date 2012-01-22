@@ -1,4 +1,4 @@
-var jDateTime = require('./lib/jDateTime').init(true, 'Asia/Tehran');
+var jDateTime = require('../index.js').init(true, 'Asia/Tehran');
 
 //we just pass datestring and DateTime format like PHP
 console.log('Gregorian To Jalali:' + jDateTime.getJalali('Y-m-d H:i:s', '1984-09-21 21:14:59', true));
