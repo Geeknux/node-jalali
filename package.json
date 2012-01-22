@@ -9,6 +9,10 @@
         {
             "name": "Amir Mahmoudi",
             "web": "http://a-mahmoudi.com/"
+        },
+        {
+            "name": "Morteza Milani",
+            "web": "http://github.com/milani"
         }
     ],
     "license": ["MIT"],
@@ -25,5 +29,5 @@
     "engines": {
         "node": ">0.4.0"
     },
-    "main": "./lib/JDateTime"
+    "main": "index.js"
 }
