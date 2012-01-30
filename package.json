@@ -1,7 +1,7 @@
 {
     "name": "node-jalali",
     "description": "Jalali DateTime Module For Node.JS",
-    "version": "1.0",
+    "version": "1.0.0",
     "keywords": ["date", "jalali", "shamsi", "time"],
     "author": "Amir Mahmoudi <info@a-mahmoudi.com> (http://a-mahmoudi.com/)",
     "homepage": "https://github.com/Geeknux/node-jalali",
@@ -24,10 +24,10 @@
         "url": "https://github.com/Geeknux/node-jalali/issues"
     },
     "directories": {
-        "lib": "./lib",
+        "lib": "./lib"
     },
-    "engines": {
-        "node": ">0.4.0"
-    },
+    "engines": [
+        "node >= 0.4.0"
+    ],
     "main": "index.js"
 }
